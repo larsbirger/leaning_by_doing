@@ -1,19 +1,7 @@
-# l
+# Learn by doing
 
-lære å programmere
+## Cad filer
 
-## kapittel 1
+her paragrafen som vi ønsker å sortere cad filer i [link til noe](/cad/) :)
 
-her starter vi å programmere
-
-## kapittel 2
-
-her starter vi å programmere
-
-### no vi skre vom
-
-
-
-## kapittel 3
-
-her starter vi å programmere
+- dette er en liste i paragrafen
